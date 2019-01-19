@@ -7,10 +7,10 @@ Scans your computer for rootkits, malware and more using popular open source sca
 3. ./aio.sh
 
 # Credits
-http://rkhunter.sourceforge.net/
-http://www.chkrootkit.org/
-https://cisofy.com/lynis/
-https://github.com/speed47/spectre-meltdown-checker
-https://github.com/mzet-/linux-exploit-suggester
+- http://rkhunter.sourceforge.net/
+- http://www.chkrootkit.org/
+- https://cisofy.com/lynis/
+- https://github.com/speed47/spectre-meltdown-checker
+- https://github.com/mzet-/linux-exploit-suggester
 
 Enjoy
