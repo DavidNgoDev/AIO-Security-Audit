@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 sudo apt-get install chkrootkit
 sudo apt-get install rkhunter
 audo apt-get install lynis
