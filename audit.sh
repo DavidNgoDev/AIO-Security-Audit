@@ -8,8 +8,8 @@ wget https://meltdown.ovh -O spectre-meltdown-checker.sh -P /tmp
 sudo chkrootkit
 sudo rkhunter -c
 sudo lynis -c
-sudo chmod +x /tmp/spectre-meltdown-checker.sh
+sudo chmod +x spectre-meltdown-checker.sh
 sudo ./spectre-meltdown-checker.sh
-sudo chmod +x /tmp/les.sh
+sudo chmod +x les.sh
 sudo ./les.sh
 
